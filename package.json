@@ -6,9 +6,13 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "node index.js",
+    "dev-node": "nodemon index.js"
   },
   "dependencies": {
+    "react": "^18.2.0",
+  "react-dom": "^18.2.0",
     "@emotion/react": "11.14.0",
     "@emotion/styled": "11.14.1",
     "@mui/icons-material": "7.3.5",
@@ -70,4 +74,13 @@
     "vite": "6.3.5"
   }
 }
+> @figma/my-make-file@0.0.1 dev
+> vite
 
+٨:١٨:٠٧ م [vite] (client) Re-optimizing dependencies because vite config has changed
+
+  VITE v6.3.5  ready in 10449 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
