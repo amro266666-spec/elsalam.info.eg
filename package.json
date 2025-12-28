@@ -1,5 +1,5 @@
 {
-  "name": "elsalam.info.eg
+  "name": "@figma/my-make-file",
   "version": "0.0.1",
   "type": "module",
   
@@ -59,7 +59,4 @@
     "react-slick": "0.31.0",
     "recharts": "2.15.2",
     "sonner
-    npm install --force
-npm "install": "
-npm i
-npm run dev
+
